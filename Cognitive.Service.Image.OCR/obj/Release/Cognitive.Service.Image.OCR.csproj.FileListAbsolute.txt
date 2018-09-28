@@ -1,0 +1,9 @@
+C:\Users\Anouar BEN ZAHRA\Source\repos\Cognitive.Service.Image.OCR\Cognitive.Service.Image.OCR\bin\Release\Cognitive.Service.Image.OCR.dll
+C:\Users\Anouar BEN ZAHRA\Source\repos\Cognitive.Service.Image.OCR\Cognitive.Service.Image.OCR\bin\Release\Cognitive.Service.Image.OCR.pdb
+C:\Users\Anouar BEN ZAHRA\Source\repos\Cognitive.Service.Image.OCR\Cognitive.Service.Image.OCR\bin\Release\Newtonsoft.Json.dll
+C:\Users\Anouar BEN ZAHRA\Source\repos\Cognitive.Service.Image.OCR\Cognitive.Service.Image.OCR\bin\Release\Newtonsoft.Json.xml
+C:\Users\Anouar BEN ZAHRA\Source\repos\Cognitive.Service.Image.OCR\Cognitive.Service.Image.OCR\obj\Release\Cognitive.Service.Image.OCR.csprojAssemblyReference.cache
+C:\Users\Anouar BEN ZAHRA\Source\repos\Cognitive.Service.Image.OCR\Cognitive.Service.Image.OCR\obj\Release\Cognitive.Service.Image.OCR.csproj.CoreCompileInputs.cache
+C:\Users\Anouar BEN ZAHRA\Source\repos\Cognitive.Service.Image.OCR\Cognitive.Service.Image.OCR\obj\Release\Cognitive.Service.Image.OCR.csproj.CopyComplete
+C:\Users\Anouar BEN ZAHRA\Source\repos\Cognitive.Service.Image.OCR\Cognitive.Service.Image.OCR\obj\Release\Cognitive.Service.Image.OCR.dll
+C:\Users\Anouar BEN ZAHRA\Source\repos\Cognitive.Service.Image.OCR\Cognitive.Service.Image.OCR\obj\Release\Cognitive.Service.Image.OCR.pdb
