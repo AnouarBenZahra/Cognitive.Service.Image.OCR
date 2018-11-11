@@ -2,7 +2,7 @@
 
 Optical Character Recognition (OCR) detects text in an image. Extracts characters into a usable character.      
 First, subscribe on Microsoft Azure. 
-Microsoft gives a 7-day trial Subscription Key https://azure.microsoft.com/en-us/try/cognitive-services/ . We can use that Subscription key for testing purposes. 
+Microsoft gives a 7-day trial Subscription Key : https://azure.microsoft.com/en-us/try/cognitive-services/ . We can use that Subscription key for testing purposes. 
 you need to log into the Azure Portal with our Azure credentials. Then we need to create an Azure Computer Vision Subscription Key in the Azure portal.
 var caracters= OCR.GetImageOCR(key,imagePath, endPoint = "https://westus.api.cognitive.microsoft.com/vision/v1.0/ocr")
 
