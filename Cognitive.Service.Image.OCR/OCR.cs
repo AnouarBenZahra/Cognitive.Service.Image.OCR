@@ -65,7 +65,6 @@ namespace Cognitive.Service.Image.OCR
             }
             return extractedResult;
         }
-
         static byte[] ByteImage(string imageFilePath)
         {
             using (FileStream fileStream =
