@@ -14,3 +14,4 @@ namespace Cognitive.Service.Image.OCR.Models
         public List<Region> regions { get; set; }
     }
 }
+//TODO Modify Attribute
